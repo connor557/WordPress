@@ -1,0 +1,319 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GamiPress wpForo Integration\n"
+"Report-Msgid-Bugs-To: https://gamipress.com/\n"
+"POT-Creation-Date: 2019-03-07 16:50+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: GamiPress (https://gamipress.com/)\n"
+"Language-Team: GamiPress <contact@gamipress.com>\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: gamipress-wpforo.php:136
+#, php-format
+msgid "GamiPress - wpForo integration requires %s and %s in order to work. Please install and activate them."
+msgstr ""
+
+#: gamipress-wpforo.php:150
+#, php-format
+msgid "GamiPress - wpForo integration requires %s or higher in order to enable multisite features. Please update your GamiPress install."
+msgstr ""
+
+#: includes/admin.php:43 includes/triggers.php:19
+msgid "wpForo"
+msgstr ""
+
+#: includes/admin.php:49
+msgid "User Points Types"
+msgstr ""
+
+#: includes/admin.php:50
+msgid "Choose the points types you want to show on user reply details."
+msgstr ""
+
+#: includes/admin.php:55 includes/admin.php:87 includes/admin.php:130
+msgid "Display Options"
+msgstr ""
+
+#: includes/admin.php:56
+msgid "Setup how points types should look on user reply details."
+msgstr ""
+
+#: includes/admin.php:60 includes/admin.php:92 includes/admin.php:135
+msgid "Show Thumbnail"
+msgstr ""
+
+#: includes/admin.php:61
+msgid "Show the points type featured image."
+msgstr ""
+
+#: includes/admin.php:66 includes/admin.php:98 includes/admin.php:141
+msgid "Thumbnail Size"
+msgstr ""
+
+#: includes/admin.php:67 includes/admin.php:99 includes/admin.php:142
+msgid "Set the thumbnail size (in pixels)."
+msgstr ""
+
+#: includes/admin.php:72
+msgid "Show Label"
+msgstr ""
+
+#: includes/admin.php:73
+msgid "Show the points type singular or plural label."
+msgstr ""
+
+#: includes/admin.php:81
+msgid "User Profile Achievement Types"
+msgstr ""
+
+#: includes/admin.php:82
+msgid "Choose the achievement types you want to show on user reply details."
+msgstr ""
+
+#: includes/admin.php:88
+msgid "Setup how achievements should look on user reply details."
+msgstr ""
+
+#: includes/admin.php:93
+msgid "Show the achievement featured image."
+msgstr ""
+
+#: includes/admin.php:104 includes/admin.php:147
+msgid "Show Title"
+msgstr ""
+
+#: includes/admin.php:105
+msgid "Show the achievements title."
+msgstr ""
+
+#: includes/admin.php:110 includes/admin.php:153
+msgid "Show Link"
+msgstr ""
+
+#: includes/admin.php:111
+msgid "Add a link to the achievement page."
+msgstr ""
+
+#: includes/admin.php:116
+msgid "Number of achievements to show"
+msgstr ""
+
+#: includes/admin.php:117
+msgid "Setup the number of achievements to show. Leave blank if you want to show all user earned achievement"
+msgstr ""
+
+#: includes/admin.php:124
+msgid "User Profile Rank Types"
+msgstr ""
+
+#: includes/admin.php:125
+msgid "Choose the rank types you want to show on user reply details."
+msgstr ""
+
+#: includes/admin.php:131
+msgid "Setup how ranks should look on user reply details."
+msgstr ""
+
+#: includes/admin.php:136
+msgid "Show the rank featured image."
+msgstr ""
+
+#: includes/admin.php:148
+msgid "Show the ranks title."
+msgstr ""
+
+#: includes/admin.php:154
+msgid "Add a link to the rank page."
+msgstr ""
+
+#: includes/admin.php:162
+msgid "Points"
+msgstr ""
+
+#: includes/admin.php:173
+msgid "Achievements"
+msgstr ""
+
+#: includes/admin.php:186
+msgid "Ranks"
+msgstr ""
+
+#: includes/admin.php:347
+msgid "wpForo integration"
+msgstr ""
+
+#: includes/triggers.php:22
+msgid "Reply to a topic"
+msgstr ""
+
+#: includes/triggers.php:23
+msgid "Reply to a specific topic"
+msgstr ""
+
+#: includes/triggers.php:24
+msgid "Reply to a topic on a specific forum"
+msgstr ""
+
+#: includes/triggers.php:26
+msgid "Create a new topic"
+msgstr ""
+
+#: includes/triggers.php:27
+msgid "Create a new topic on a specific forum"
+msgstr ""
+
+#: includes/triggers.php:29
+msgid "Like a post"
+msgstr ""
+
+#: includes/triggers.php:30
+msgid "Like a post on a specific topic"
+msgstr ""
+
+#: includes/triggers.php:31
+msgid "Like a post on a specific forum"
+msgstr ""
+
+#: includes/triggers.php:32
+msgid "Get a like on a post"
+msgstr ""
+
+#: includes/triggers.php:34
+msgid "Dislike a post"
+msgstr ""
+
+#: includes/triggers.php:35
+msgid "Dislike a post on a specific topic"
+msgstr ""
+
+#: includes/triggers.php:36
+msgid "Dislike a post on a specific forum"
+msgstr ""
+
+#: includes/triggers.php:37
+msgid "Get a dislike on a post"
+msgstr ""
+
+#: includes/triggers.php:39
+msgid "Vote up a post"
+msgstr ""
+
+#: includes/triggers.php:40
+msgid "Vote up a post on a specific topic"
+msgstr ""
+
+#: includes/triggers.php:41
+msgid "Vote up a post on a specific forum"
+msgstr ""
+
+#: includes/triggers.php:42
+msgid "Get a vote up on a post"
+msgstr ""
+
+#: includes/triggers.php:44
+msgid "Vote down a post"
+msgstr ""
+
+#: includes/triggers.php:45
+msgid "Vote down a post on a specific topic"
+msgstr ""
+
+#: includes/triggers.php:46
+msgid "Vote down a post on a specific forum"
+msgstr ""
+
+#: includes/triggers.php:47
+msgid "Get a vote down on a post"
+msgstr ""
+
+#: includes/triggers.php:49
+msgid "Answer a question"
+msgstr ""
+
+#: includes/triggers.php:50
+msgid "Answer a question of a specific forum"
+msgstr ""
+
+#: includes/triggers.php:51
+msgid "Get a question answered"
+msgstr ""
+
+#: includes/triggers.php:53
+msgid "Delete a reply"
+msgstr ""
+
+#: includes/triggers.php:55
+msgid "Delete a topic"
+msgstr ""
+
+#: includes/triggers.php:108
+#, php-format
+msgid "Reply on %s topic"
+msgstr ""
+
+#: includes/triggers.php:109
+#, php-format
+msgid "Reply on %s forum"
+msgstr ""
+
+#: includes/triggers.php:111
+#, php-format
+msgid "Create a topic on %s forum"
+msgstr ""
+
+#: includes/triggers.php:113
+#, php-format
+msgid "Like a post on %s topic"
+msgstr ""
+
+#: includes/triggers.php:114
+#, php-format
+msgid "Like a post on %s forum"
+msgstr ""
+
+#: includes/triggers.php:116
+#, php-format
+msgid "Dislike a post on %s topic"
+msgstr ""
+
+#: includes/triggers.php:117
+#, php-format
+msgid "Dislike a post on %s forum"
+msgstr ""
+
+#: includes/triggers.php:119
+#, php-format
+msgid "Vote up a post on %s topic"
+msgstr ""
+
+#: includes/triggers.php:120
+#, php-format
+msgid "Vote up a post on %s forum"
+msgstr ""
+
+#: includes/triggers.php:122
+#, php-format
+msgid "Vote down a post on %s topic"
+msgstr ""
+
+#: includes/triggers.php:123
+#, php-format
+msgid "Vote down a post on %s forum"
+msgstr ""
+
+#: includes/triggers.php:125
+#, php-format
+msgid "Answer %s question"
+msgstr ""
